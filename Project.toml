@@ -1,0 +1,11 @@
+name = "CFITSIO_jll"
+uuid = "b3e40c51-02ae-5482-8a39-3ace5868dcf4"
+version = "3.47.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
